@@ -1,0 +1,16 @@
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\SampleScraperClient.exe.config
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\SampleScraperClient.exe
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\SampleScraperClient.pdb
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\FSharp.Core.dll
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\HtmlAgilityPack.dll
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.Core.dll
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.dll
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\FSharp.Core.xml
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\HtmlAgilityPack.pdb
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\HtmlAgilityPack.xml
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.pdb
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.Core.pdb
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\bin\Debug\ScrapySharp.Core.xml
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\obj\Debug\SampleScraperClient.csprojResolveAssemblyReference.cache
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\obj\Debug\SampleScraperClient.exe
+D:\NitinMuteja\Projects\WebScraping\part1\SampleClient\SampleClient\SampleScraperClient\SampleScraperClient\obj\Debug\SampleScraperClient.pdb
